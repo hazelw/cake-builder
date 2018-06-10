@@ -1,0 +1,7 @@
+*.db
+*.Python
+*.swp
+pip-selfcheck.json
+include
+lib
+bin
